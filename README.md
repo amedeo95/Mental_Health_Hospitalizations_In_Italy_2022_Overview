@@ -5,11 +5,15 @@ The Power Query tool was used to select the necessary tables for data analysis a
 
 The following section provides an overview of the terminology used in this study.
 
-- Regime ordinario: inpatient with an overnight stay
-- Regime diurno: day hospital (without an overnight stay)
-- Regime convenzionato: pharmacies
-- Distribuzione diretta: Health care facilities
-- Strutture psichiatriche residenziali: Residential facilities divided into therapeutic-rehabilitation and socio-rehabilitation residences
-- Strutture psichiatriche semiresidenziali: day care centers
-- Strutture psichiatriche territoriali: include services such as the CSM, day care centers, and psychiatric diagnostic and treatment services
-- Strutture di cura accreditate: health care facilities that provide services on behalf of the SSN
+- Ordinary Discharge => Discharge following an inpatient hospital stay that included at least one overnight stay.
+- Day Discharge => Discharge after a Day Hospital treatment, where care is provided and the patient returns home the same day.
+- Ordinary Hospitalization => Traditional inpatient hospital admission requiring overnight care, often used for complex or monitored treatments.
+- Day Hospital => A scheduled outpatient service within a hospital where patients receive therapeutic, diagnostic, or minor surgical care without staying overnight.
+- Direct Distribution => The direct supply of medications from public healthcare facilities (e.g., hospitals, local health units) to patients, bypassing pharmacies.
+- Subsidized Regimen => A healthcare plan in which services—such as medications, visits, or hospital stays—are partly or fully covered by the National Health Service.
+- Active Local Structures => Operational local healthcare units such as clinics, outpatient facilities, and diagnostic centers providing primary or specialist care.
+- Active Local Psychiatric Facilities => Community-based mental health services, like Mental Health Centers (CSMs), offering non-residential psychiatric assistance.
+- Active Residential Psychiatric Facilities => Psychiatric residential units (e.g. SRP1, SRP2, SRP3) for patients needing long-term therapeutic housing and continuous care.
+- Active Semi-Residential Facilities => Day-service facilities for individuals with physical or mental health needs, providing care without overnight accommodation.
+- Active Residential Facilities => Fully residential care facilities—psychiatric or not—such as nursing homes, group homes, or protected housing communities.
+- Active Semi-Residential Psychiatric Facilities => Day-care mental health centers offering therapeutic or rehabilitative treatment for psychiatric patients without hospitalization.
